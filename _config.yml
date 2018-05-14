@@ -32,11 +32,11 @@ links:
     url: /research
   - title: Book Project
     url: /bookproject
+  - title: Teaching
+    url: /teaching
   - title: CV
     url: /pdf/CunhaCV.pdf
     external: true
-  - title: Teaching
-    url: /teaching
   - title: Contact
     url: /contact
 
