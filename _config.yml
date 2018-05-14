@@ -1,16 +1,16 @@
-title:            Raphael Cunha
+title:            Marina Duque
 tagline:          
 description:      
-canonical:        http://raphaelcunha.info
+canonical:        http://marinagduque.com
 
 # Owner/author information
 owner:
-  name:           Raphael Cunha
+  name:           Marina Duque
   avatar:         
   bio:            
-  email:          cunha.6@osu.edu
-  twitter:        raphaccunha
-  github:         raphacunha
+  email:          mduque@princeton.edu
+  twitter:        marinagduque
+  github:         marinagduque
   instagram:      
   dribbble:       
   disqus:         
@@ -30,9 +30,13 @@ opengraph:
 links:
   - title: Research
     url: /research
+  - title: Book Project
+    url: /bookproject
   - title: CV
     url: /pdf/CunhaCV.pdf
     external: true
+  - title: Teaching
+    url: /teaching
   - title: Contact
     url: /contact
 
