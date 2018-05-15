@@ -5,35 +5,17 @@ title: "Book Project"
 description:
 tags: [research, book, book project]
 image:
-  feature: old_stock_market_noir_tonal_tonal_crop.jpg
+  feature: 2BookProject.png
 ---
 
-#### peer-reviewed articles
-------
+#### STATUS IN INTERNATIONAL POLITICS
 
-Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets. _International Studies Quarterly_ 59(3): 587–601, 2015. (with Sarah Brooks & Layna Mosley)<br/>
-[<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Publisher</a> \| <a href="../pdf/Brooks_etal_2015.pdf" target="_blank">PDF</a> \| <a href="http://dx.doi.org/10.7910/DVN/TPAB95" target="_blank">Replication</a> | <a href="../pdf/Brooks_etal_2015_Appendix.pdf" target="_blank">Supplementary Appendix</a>]
+Practitioners and scholars often refer to the existence of an international pecking order—an informal hierarchy of status among states. Indeed, international relations scholars rely on status to explain important phenomena, such as hegemonic wars and the foreign policy of emerging powers. Yet, despite the prominent role of status both in international practice and theory, little is known about what status is, how it works, or where it comes from.
 
-Survival Analysis of Faculty Retention and Promotion in the Social Sciences by Gender. _PLoS ONE_ 10(11): e0143093, 2015. (with Jan Box-Steffensmeier et al.)<br/>
-[<a href="http://doi.org/10.1371/journal.pone.0143093" target="_blank">Publisher</a> \| <a href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0143093&representation=PDF" target="_blank">PDF</a>]
+To investigate the foundations of international status, I draw from an interdisciplinary body of work. Whereas previous research defines status in terms of state attributes such as wealth or nuclear weapons, I argue that status depends on recognition: it concerns identification processes in which an actor gains admission into a club once they follow the rules of membership. Status results from relational dynamics: to begin, it is self-reinforcing. Moreover, effective claims to status entail social closure—the establishment of a boundary between the club and outsiders. Social closure implies that (a) relations are denser within a club and sparse with outsiders, and (b) clubs differentiate themselves from outsiders by adopting a distinctive bundle of symbols. In examining status relations, we should thus find a club of states bound together by dense relations and common symbols.
 
-Negociações Comerciais em uma Economia Fechada: O Brasil e o Comércio de Serviços na Rodada Uruguai [_Trade Negotiations in a Closed Economy: Brazil and Trade in Services in the Uruguay Round_]. _Revista Brasileira de Política Internacional_ 58(1): 142–163, 2015.<br/>
-[<a href="http://dx.doi.org/10.1590/0034-7329201500108" target="_blank">Publisher</a> \| <a href="http://www.scielo.br/pdf/rbpi/v58n1/0034-7329-rbpi-58-01-00142.pdf" target="_blank">PDF</a>]
+This theoretical approach enables me to move beyond ranking states based on attributes to examine empirically how status emerges from state relations. Using statistical tools for the study of networks, I investigate status recognition in the context of diplomatic relations. Results indicate that status is relational—that is, self-reinforcing and shaped by social closure—rather than reducible to states' attributes. In addition, fundamental values such as democracy and economic liberalism are important drivers of status recognition. The lifestyle of high-status states today involves not only the ability to fend for oneself under anarchy, but also a Western standard of civilization.
 
-As Relações Econômicas Internacionais do Governo Geisel (1974–1979) [_The International Economic Relations of the Geisel Administration (1974–1979)_]. _Revista Brasileira de Política Internacional_ 54(2): 46–69, 2011. (with Rogério Farias)<br/>
-[<a href="http://dx.doi.org/10.1590/S0034-73292011000200003" target="_blank">Publisher</a> \| <a href="http://www.scielo.br/pdf/rbpi/v54n2/v54n2a03.pdf" target="_blank">PDF</a>]
-
-Preferências Domésticas e Instituições do Processo Decisório em Política Econômica Externa [_Domestic Preferences and Institutions in Foreign Economic Policymaking_]. _Dados_ 52(4): 871–910, 2009.<br/>
-[<a href="http://dx.doi.org/10.1590/S0011-52582009000400003" target="_blank">Publisher</a> \| <a href="http://www.scielo.br/pdf/dados/v52n4/v52n4a03.pdf" target="_blank">PDF</a>]
+For emerging powers, this implies that investing in attributes as a means to achieve status may be ineffective and potentially counterproductive. More generally, my research suggests that status has a more complex and broader role than previously assumed: one of promoting order, rather than exacerbating conflict. Existing studies tend to equate status-seeking behavior with aggressive behavior, by emphasizing the link between status dissatisfaction and war. But because membership in the international society is based on a standard of civilization that includes democracy and economic liberalism, adopting these norms evokes status recognition. Therefore, status-seeking states may be more likely to engage in cooperative behavior by adopting international norms than to initiate security dilemmas by building their military capabilities.
 
 
-#### editor-reviewed articles
-------
-Generalized System of Preferences in General Agreement on Tariffs and Trade/World Trade Organization: Historical Background and Current Issues. _Journal of World Trade_ 39(4): 637–670, 2005. (with Norma B. dos Santos & Rogério Farias)<br/>
-[<a href="http://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Publisher</a> \| <a href="../pdf/Santos_etal_2005.pdf" target="_blank">PDF</a>]
-
-
-#### working papers
-------
-US Political Shocks, Global Banks, and International Financial Markets: Evidence from the 2016 Presidential Election. (with Andreas Kern)<br>
-[<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">SocArXiv PDF</a>]
