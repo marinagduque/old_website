@@ -11,11 +11,10 @@ image:
 #### UNDERGRADUATE COURSES
 
 
-Political Science 3910: Identity Politics [Syllabus]
-  
-  The Ohio State University, 2013-2014
+# The Ohio State University
 
-
-International Security
+Political Science 3910: Identity Politics [Syllabus] (2013-2014)
   
-  University of Brasília, 2007
+# University of Brasília
+
+International Security (2007)
