@@ -11,10 +11,13 @@ image:
 #### UNDERGRADUATE COURSES
 
 
+##### Florida State University
+
+The State and the Modern International System
+
+Identity in International Relations
+
+
 ##### The Ohio State University
 
 Political Science 3910: Identity Politics (2013-2014) [Syllabus]
-  
-##### University of Brasília
-
-International Security (2007)
