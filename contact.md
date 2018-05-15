@@ -8,6 +8,7 @@ image:
   feature: 5Contact.png
 ---
 
+#### CONTACT INFORMATION
 
 <img src="../images/email_icon.png" style="width: 30px;" align="left"> | mduque [at] princeton [dot] edu 
 <img src="../images/twitter_icon.png" style="width: 30px;" align="left"> | @marinagduque 
