@@ -10,7 +10,7 @@ image:
 
 #### PEER-REVIEWED ARTICLES
 
-Duque, Marina G. Forthcoming. "<a href="https://doi.org/10.1093/isq/sqy001" target="_blank">Recognizing International Status: A Relational Approach.</a>" _International Studies Quarterly_. [<a href="https://doi.org/10.1093/isq/sqy001" target="_blank">Pre-Print</a> | <a href="https://doi.org/10.1093/isq/sqy001" target="_blank">Appendix</a> | <a href="https://doi.org/10.7910/DVN/4K7SQC" target="_blank">Replication</a>]
+Duque, Marina G. Forthcoming. "<a href="https://doi.org/10.1093/isq/sqy001" target="_blank">Recognizing International Status: A Relational Approach.</a>" _International Studies Quarterly_. [<a href="https://doi.org/10.1093/isq/sqy001" target="_blank">Pre-Print</a> \| <a href="https://doi.org/10.1093/isq/sqy001" target="_blank">Appendix</a> \| <a href="https://doi.org/10.7910/DVN/4K7SQC" target="_blank">Replication</a>]
 
 Duque, Marina Guedes. 2009. "<a href="http://www.scielo.br/pdf/cint/v31n3/v31n3a03.pdf" target="_blank">The Synthesis Made by the Copenhagen School in International Security Studies</a>" [in Portuguese]. _Contexto Internacional_, 31(3): 459-501.
 
