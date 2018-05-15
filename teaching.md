@@ -13,7 +13,7 @@ image:
 
 ##### The Ohio State University
 
-Political Science 3910: Identity Politics [Syllabus] (2013-2014)
+Political Science 3910: Identity Politics (2013-2014) [Syllabus]
   
 ##### University of Brasília
 
