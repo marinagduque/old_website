@@ -59,9 +59,10 @@ sup {
 
 blockquote, blockquote p {
     font-style: normal;
+    font-size: $fs5;
     line-height: 85%;
     text-align: justify;
-    color: lighten($black, .2);
+    //color: lighten($black, .2);
     margin-bottom: $lh;
 }
 
