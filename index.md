@@ -2,9 +2,9 @@
 layout: page
 title: "Home"
 description:
-tags: [raphael cunha, raphael coutinho da cunha, political science, international political economy, political economy, finance, financial markets, globalization, contagion, interdependence, political methodology]
+tags: [marina duque, marina g duque, marina guedes duque, political science, international relations, international relations theory, status, international status, hierarchy, international hierarchy, network analysis]
 image:
-  feature: 1 Home.png
+  feature: 1Home.png
 ---
 
 
