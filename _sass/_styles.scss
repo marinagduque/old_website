@@ -641,9 +641,9 @@ footer {
         bottom: 8px;
         font-family: $sans;
         text-transform: uppercase;
-        color: transparentize($white, 0);
+        color: transparentize($white, 0.3);
         a {
-            color: transparentize($white, 0);
+            color: transparentize($white, 0.5);
         }
     }
     
