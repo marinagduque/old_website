@@ -484,6 +484,7 @@ header.site-header nav {
         
         img {
             margin-bottom: $lh/2;
+	    border-radius: 0px;
         }
         
         figcaption {
@@ -501,6 +502,7 @@ header.site-header nav {
         height: auto;
         display: block;
         margin: $lh auto;
+	border-radius: 0px;
         @include br(4px);
     }
     
