@@ -80,8 +80,8 @@ code {
 .highlight {
     background: $black;
     padding: 12px;
-    //border-radius: 4px;
-    border-radius: 0px;
+    border-radius: 4px;
+    //border-radius: 0px;
     margin-bottom: $lh;
     overflow-x: scroll;
 
@@ -116,7 +116,8 @@ hr {
     background: $grey-light;
     border: none;
     margin-bottom: $lh;
-    border-radius: 2px;
+    //border-radius: 2px;
+    border-radius: 0px;
 }
 
 input {
