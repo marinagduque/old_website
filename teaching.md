@@ -20,4 +20,4 @@ Identity in International Relations
 
 ##### The Ohio State University
 
-Political Science 3910: Identity Politics [Syllabus SP14]
+Political Science 3910: Identity Politics [<a href="../pdf/PS3910SyllabusSP14.pdf" target="_blank">Syllabus SP14</a>]
