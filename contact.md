@@ -9,6 +9,5 @@ image:
 ---
 
 <img src="../images/email_icon.png" style="width: 30px;" align="left"> | marina.duque [at] fsu [dot] edu 
-<img src="../images/twitter_icon.png" style="width: 30px;" align="left"> | @marinagduque<br>
-| <a href="https://scholar.google.com/citations?user=ZZY5EK8AAAAJ&hl=en" target="_blank">Google Scholar</a>
+<img src="../images/twitter_icon.png" style="width: 30px;" align="left"> | @marinagduque <br> <a href="https://scholar.google.com/citations?user=ZZY5EK8AAAAJ&hl=en" target="_blank">Google Scholar</a>
 <img src="../images/mailing_icon.png" style="width: 30px;" align="left"> | Florida State University<br>Department of Political Science<br>531 Bellamy Building<br>Tallahassee, FL 32306
