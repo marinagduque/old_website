@@ -10,7 +10,7 @@ image:
 
 #### PEER-REVIEWED ARTICLES
 
-Duque, Marina G. 2018. <strong><a href="https://doi.org/10.1093/isq/sqy001" target="_blank">Recognizing International Status: A Relational Approach.</a></strong> _International Studies Quarterly_ 62(3): 577–592.
+<strong>Duque, Marina G. 2018. <a href="https://doi.org/10.1093/isq/sqy001" target="_blank">Recognizing International Status: A Relational Approach.</a> _International Studies Quarterly_ 62(3): 577–592.</strong>
 
 - <a href="../pdf/DuqueRecognizingStatus.pdf" target="_blank">Pre-Print PDF</a>.
 - <a href="../pdf/DuqueOnlineAppendix.pdf" target="_blank">Online Appendix</a> & <a href="https://doi.org/10.7910/DVN/4K7SQC" target="_blank">Replication Files</a>. 
