@@ -60,7 +60,8 @@ sup {
 blockquote, blockquote p {
     font-style: normal;
     font-size: $fs4b;
-    //padding-left: 15px; //* Indent entire paragraph of block quote
+    padding-left: 15px; //* Indent entire paragraph of block quote
+    padding-right: 15px; //* Indent entire paragraph of block quote
     line-height: 95%;
     text-align: justify;
     //color: lighten($black, .2);
