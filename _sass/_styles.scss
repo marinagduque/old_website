@@ -22,6 +22,7 @@ p {
 
 a, a:visited, a:active {
     color: $link;
+    font-weight: bold;
     //@include transit(all,0.25s,ease-in-out);
 }
 
@@ -62,7 +63,7 @@ blockquote, blockquote p {
     font-size: $fs4b;
     padding-left: 30px; //* Indent entire paragraph of block quote
     padding-right: 30px; //* Indent entire paragraph of block quote
-    line-height: 100%;
+    line-height: 120%;
     text-align: justify;
     //color: lighten($black, .2);
     margin-bottom: $lh;
