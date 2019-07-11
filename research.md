@@ -12,9 +12,9 @@ image:
 
 Duque, Marina G. 2018. <a href="https://doi.org/10.1093/isq/sqy001" target="_blank">Recognizing International Status: A Relational Approach.</a> _International Studies Quarterly_ 62(3): 577–592.
 
-- Winner of the <a href="https://www.isanet.org/Programs/Awards/DPLST-Article" target="_blank">2019 DPLST Article Award</a> by the International Studies Association's Diplomatic Studies Section, for the best article on diplomacy published in the previous year.
 - <a href="../pdf/DuqueOnlineAppendix.pdf" target="_blank">Appendix</a> & <a href="https://doi.org/10.7910/DVN/4K7SQC" target="_blank">Replication Files</a>
 - <a href="../pdf/DuqueRecognizingStatus.pdf" target="_blank">Pre-Print PDF</a>
+- Winner of the <a href="https://www.isanet.org/Programs/Awards/DPLST-Article" target="_blank">2019 DPLST Article Award</a> by the International Studies Association's Diplomatic Studies Section, for the best article on diplomacy published in the previous year
 - <a href="https://foreignpolicy.com/2018/06/21/kim-jong-un-gets-to-sit-at-the-cool-table-now/" target="_blank">Article</a> by Stacie Goddard and Dan Nexon on <a href="https://foreignpolicy.com/" target="_blank">Foreign Policy</a>
 
 Duque, Marina Guedes. 2009. "<a href="http://www.scielo.br/pdf/cint/v31n3/v31n3a03.pdf" target="_blank">The Copenhagen School's Contribution to International Security Studies</a>" [in Portuguese]. _Contexto Internacional_ 31(3): 459-501.
