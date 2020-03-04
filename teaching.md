@@ -8,6 +8,16 @@ image:
   feature: 4Teaching.png
 ---
 
+#### GRADUATE COURSES
+
+
+##### Florida State University
+
+International Relations Theory
+
+Political Psychology and International Relations
+
+
 #### UNDERGRADUATE COURSES
 
 
