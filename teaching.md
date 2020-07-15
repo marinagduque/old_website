@@ -23,6 +23,8 @@ Political Psychology and International Relations
 
 ##### Florida State University
 
+Nationalism and Conflict
+
 The State and the Modern International System
 
 Identity in International Relations
