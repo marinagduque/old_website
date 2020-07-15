@@ -13,9 +13,9 @@ image:
 
 ##### Florida State University
 
-International Relations Theory
+  International Relations Theory
 
-Political Psychology and International Relations
+  Political Psychology and International Relations
 
 
 #### UNDERGRADUATE COURSES
@@ -23,13 +23,13 @@ Political Psychology and International Relations
 
 ##### Florida State University
 
-Nationalism and Conflict
+  Nationalism and Conflict
 
-The State and the Modern International System
+  The State and the Modern International System
 
-Identity in International Relations
+  Identity in International Relations
 
 
 ##### The Ohio State University
 
-Political Science 3910: Identity Politics [<a href="../pdf/PS3910SyllabusSP14.pdf" target="_blank">Syllabus SP14</a>]
+  Political Science 3910: Identity Politics [<a href="../pdf/PS3910SyllabusSP14.pdf" target="_blank">Syllabus SP14</a>]
