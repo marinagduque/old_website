@@ -13,9 +13,9 @@ image:
 
 ##### Florida State University
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International Relations Theory
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INR 5934: International Relations Theory
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Political Psychology and International Relations
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INR 5934: Political Psychology and International Relations
 
 
 #### UNDERGRADUATE COURSES
@@ -23,13 +23,15 @@ image:
 
 ##### Florida State University
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nationalism and Conflict
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INR 3933: Nationalism and Conflict
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The State and the Modern International System
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INR 3933: The State and the Modern International System
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Identity in International Relations
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INR 3933: Identity in International Relations
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INR 2002: Introduction to International Relations
 
 
 ##### The Ohio State University
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Political Science 3910: Identity Politics [<a href="../pdf/PS3910SyllabusSP14.pdf" target="_blank">Syllabus SP14</a>]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PS 3910: Identity Politics [<a href="../pdf/PS3910SyllabusSP14.pdf" target="_blank">Syllabus SP14</a>]
