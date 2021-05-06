@@ -35,7 +35,7 @@ Duque, Marina G. 2021. Review of Lora Anne Viola's "The Closure of the Internati
 
 #### WORKING PAPERS
 
-“The Case for an Expressive Logic of Action”
+“The Case for an Expressive Logic of Action” _(under review)_
 
 - Winner of the <a href="https://www.isanet.org/Programs/Awards/THEORY-Conference-Post-PhD-Paper-Award" target="_blank">2019 Best Post-Paper Award</a> by the International Studies Association's Theory Section, for the best paper theorizing international politics by a post-PhD scholar presented at ISA 2019.
 
