@@ -28,15 +28,22 @@ Duque, Marina. 2016. “The Rascals’ Paradise: Brazilian National Identity in 
 - <a href="../pdf/Brazil_2010.pdf" target="_blank">Pre-Print PDF</a>
 
 
+#### BOOK REVIEWS
+
+Duque, Marina G. 2021. Review of Lora Anne Viola's "The Closure of the International System: How Institutions Create Political Equalities and Hierarchies."  _Perspective on Politics_ 19(2).
+
+
 #### WORKING PAPERS
 
-“The Logic of Expressive Rationality”
+“The Case for an Expressive Logic of Action”
 
 - Winner of the <a href="https://www.isanet.org/Programs/Awards/THEORY-Conference-Post-PhD-Paper-Award" target="_blank">2019 Best Post-Paper Award</a> by the International Studies Association's Theory Section, for the best paper theorizing international politics by a post-PhD scholar presented at ISA 2019.
 
-> While status is considered a fundamental motivation for political action, we still understand little about status-motivated behavior. IR scholars usually explain action based on the logics of consequences or appropriateness. Yet, status-motivated behavior often escapes either logic. To explain it, I develop a new logic of action—expressive rationality, whereby behavior expresses an actor’s self-identification. Following this logic, action carries symbolic meaning, and social influence shapes behavior. Actors adopt the social conventions of the group with whom they identify. Moreover, high-status actors usually act as standard-setters, shaping group membership standards; and as gatekeepers, restricting access to privileges. I demonstrate the value of expressive rationality by using it to shed light on states' weapons acquisitions, a type of behavior with consequential implications for conflict. Expressive rationality allows us to study status-motivated behavior systematically, rather than treating it as an anomaly. More broadly, it opens new directions for research on symbolic politics.
+> IR scholars usually explain action based on the logics of consequences or appropriateness. Yet, political behavior often escapes either logic. Extensive research finds that people's attitudes toward out-groups shape their positions on issues like international trade or immigration, which bolster support for ethno-nationalist populism in developed countries. In this paper, I argue that we need a new set of building blocks to theorize about phenomena like these. Combining insights across disciplines, I develop an expressive logic of action, whereby behavior expresses an actor’s social identification. Following this logic, group attachment provides a compelling motivation for political behavior, whose activation depends on an interaction between issue framing and psychological dispositions. People form emotional attachments to salient social groups, which political elites attempt to mobilize in connection with political issues; mobilization attempts succeed when issue framing taps into deeply felt attachments among group members in a given context. An expressive logic focuses on the distinctive features of expressive behavior and specifies the mechanisms behind that behavior. As such, it allows us to study symbolic action systematically, rather than treating it as an anomaly.
 
 “Weapons of National Pride: An Experimental Study"
 
 > Why do governments buy advanced weapons and put them on display for the domestic public? While weapons research emphasizes strategic factors, I draw from the nationalism literature to argue that weapons owned by high-status countries can become attractive as symbols of national pride, especially among citizens who identify strongly with the nation. I conduct an original set of experiments with members of the U.S. public to assess whether status considerations mobilize support for buying fighter jets. The experimental designs allow me to disentangle status from strategic considerations. I show that status considerations shape weapons evaluations even in a great power like the United States. When status motivations are salient, citizens may be willing to spend more on weapons that do not provide additional strategic advantage. As such, leaders can use weapons to boost national pride without paying the costs of war.
+
+"Noblesse Oblige: Status Motivations and Support for Foreign Aid" (with Zachary Houser)
 
