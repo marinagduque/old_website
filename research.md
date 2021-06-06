@@ -30,7 +30,7 @@ Duque, Marina. 2016. “The Rascals’ Paradise: Brazilian National Identity in 
 
 #### BOOK REVIEWS
 
-Duque, Marina G. 2021. Review of Lora Anne Viola's "The Closure of the International System: How Institutions Create Political Equalities and Hierarchies."  _Perspective on Politics_ 19(2).
+Duque, Marina G. 2021. <a href="https://doi.org/10.1017/S1537592721000554" target="_blank">Review of Lora Anne Viola's "The Closure of the International System: How Institutions Create Political Equalities and Hierarchies."</a> _Perspective on Politics_ 19(2): 687-689.
 
 
 #### WORKING PAPERS
