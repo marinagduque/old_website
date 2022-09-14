@@ -10,8 +10,8 @@ image:
 
 My research combines novel theoretical insights with rigorous empirical analysis using methods like network analysis and survey experiments to address two distinct but complementary questions:
 <ol>
-<li> <b>How do countries achieve status?</b> While existing studies traditionally assume that status depends on attributes like economic or military capabilities, my work reveals the underlying relational effects that drive status recognition in the international system.</li>
-<li> <b>How does status motivate political behavior?</b> While existing research treats status-motivated behavior at the state level as an attempt to achieve international recognition, my work disentangles the mechanisms driving status-motivated behavior at the domestic level.</li>
+<li> <strong>How do countries achieve status?</strong> While existing studies traditionally assume that status depends on attributes like economic or military capabilities, my work reveals the underlying relational effects that drive status recognition in the international system.</li>
+<li> <strong>How does status motivate political behavior?</strong> While existing research treats status-motivated behavior at the state level as an attempt to achieve international recognition, my work disentangles the mechanisms driving status-motivated behavior at the domestic level.</li>
 </ol>
   
 #### PEER-REVIEWED ARTICLES
