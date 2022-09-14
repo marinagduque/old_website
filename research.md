@@ -8,6 +8,8 @@ image:
   feature: 3Research.png
 ---
 
+My research combines novel theoretical insights with rigorous empirical analysis using methods like network analysis and survey experiments to address two distinct but complementary questions. The first part of my research agenda examines how countries achieve status. While existing studies traditionally assume that status depends on attributes like economic or military capabilities, my work reveals the underlying relational effects that drive status recognition in the international system. Complementing the first part, the second part of my research agenda examines how status motivates political behavior. While existing research treats status-motivated behavior at the state level as an attempt to achieve international recognition, my work disentangles the mechanisms driving status-motivated behavior at the domestic level.
+
 #### PEER-REVIEWED ARTICLES
 
 Duque, Marina G. 2018. <a href="https://doi.org/10.1093/isq/sqy001" target="_blank">Recognizing International Status: A Relational Approach.</a> _International Studies Quarterly_ 62(3): 577–592.
