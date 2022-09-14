@@ -16,7 +16,7 @@ My research combines novel theoretical insights with rigorous empirical analysis
 
 #### BOOK PROJECT
 
-<a href="http://marinagduque.com/bookproject/" target="_blank">The Making of International Status.</a>
+<a href="http://marinagduque.com/bookproject/" target="_blank">The Making of International Status</a>
 
 #### PEER-REVIEWED ARTICLES
 
