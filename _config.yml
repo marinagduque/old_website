@@ -30,8 +30,8 @@ opengraph:
 links:
   - title: Research
     url: /research
-  - title: Book Project
-    url: /bookproject
+  - title: Book
+    url: /book
   - title: Teaching
     url: /teaching
   - title: CV
