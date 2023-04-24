@@ -14,9 +14,9 @@ My research combines novel theoretical insights with rigorous empirical analysis
 <li> <strong>How does status motivate political behavior?</strong> While existing research treats status-motivated behavior at the state level as an attempt to achieve international recognition, my work disentangles the mechanisms driving status-motivated behavior at the domestic level.</li>
 </ol>
 
-#### BOOK PROJECT
+#### BOOK MANUSCRIPT
 
-<a href="http://marinagduque.com/bookproject/" target="_blank"><strong>The Making of International Status</strong></a>
+<a href="http://marinagduque.com/book/" target="_blank"><strong>The Making of International Status</strong></a>
 
 #### PEER-REVIEWED ARTICLES
 
