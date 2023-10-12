@@ -8,7 +8,7 @@ image:
   feature: 3Research.png
 ---
 
-My research combines novel theoretical insights with rigorous empirical analysis using methods like network analysis and survey experiments to address two distinct but complementary questions:
+My research combines novel theoretical insights with empirical analysis using methods like network analysis and survey experiments to address two distinct but complementary questions:
 <ol>
 <li> <strong>How do countries achieve status?</strong> While existing studies traditionally assume that status depends on attributes like economic or military capabilities, my work reveals the underlying relational effects that drive status recognition in the international system.</li>
 <li> <strong>How does status motivate political behavior?</strong> While existing research treats status-motivated behavior at the state level as an attempt to achieve international recognition, my work disentangles the mechanisms driving status-motivated behavior at the domestic level.</li>
