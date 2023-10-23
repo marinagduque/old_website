@@ -15,8 +15,6 @@ image:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PUBL0090: International Public Policy
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POLS0102: Dissertation
-
 
 ##### Florida State University
 
@@ -31,6 +29,8 @@ image:
 ##### University College London
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POLS0001: International Conflict and Cooperation
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POLS0102: Dissertation
 
 
 ##### Florida State University
