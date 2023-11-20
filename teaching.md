@@ -13,7 +13,7 @@ image:
 
 ##### University College London
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PUBL0090: International Public Policy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ucl.ac.uk/module-catalogue/modules/international-public-policy-PUBL0090" target="_blank">PUBL0090: International Public Policy</a>
 
 
 ##### Florida State University
