@@ -28,9 +28,9 @@ image:
 
 ##### University College London
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POLS0001: International Conflict and Cooperation
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ucl.ac.uk/module-catalogue/modules/international-conflict-and-cooperation-POLS0001" target="_blank">POLS0001: International Conflict and Cooperation</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POLS0102: Dissertation
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ucl.ac.uk/module-catalogue/modules/dissertation-POLS0086" target="_blank">POLS0102: Dissertation</a>
 
 
 ##### Florida State University
