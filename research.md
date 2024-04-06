@@ -22,6 +22,8 @@ My research combines novel theoretical insights with empirical analysis using me
 
 Duque, Marina G. Forthcoming. <strong>The Case for an Expressive Logic of Action.</strong> _Global Studies Quarterly_.
 
+- Winner of the <a href="https://www.isanet.org/Programs/Awards/THEORY-Conference-Post-PhD-Paper-Award" target="_blank"><strong>2019 Best Post-PhD Paper Award</strong></a> by the ISA Theory Section, for the best theoretical paper by a post-PhD scholar presented at ISA 2019
+
 Duque, Marina G. 2018. <a href="https://doi.org/10.1093/isq/sqy001" target="_blank"><strong>Recognizing International Status: A Relational Approach.</strong></a> _International Studies Quarterly_ 62(3): 577–592.
 
 - Winner of the <a href="https://www.apsanet.org/section-41-The-Political-Ties-Award" target="_blank"><strong>2019 Political Ties Award</strong></a> by the American Political Science Association's Political Networks Section, for the best article on political networks published over the previous two years
