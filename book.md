@@ -8,7 +8,7 @@ image:
   feature: 2BookProject.png
 ---
 
-#### THE MAKING OF INTERNATIONAL STATUS / Oxford University Press (Forthcoming)
+#### THE MAKING OF INTERNATIONAL STATUS | Oxford University Press (Forthcoming)
 
 My book will be the first to investigate the sources of international status. Drawing on multi-disciplinary insights, I develop a theoretical framework that highlights the social nature of status and use network analysis tools uniquely suited to the study of status. I argue that status depends on states' positions in a social arrangement, rather than on their qualities or the things that they have. To investigate how countries achieve status, I conduct a network analysis of diplomatic relations since the early nineteenth century. My analysis shows that the structure of state relations itself shapes the conditions for status achievement in the international system. Once established, status distinctions reinforce inequality, independently from material conditions, via cumulative advantage mechanisms: the higher standing a state enjoys, the more it attracts additional recognition. It is no coincidence that, to this day, status evaluations rely on governance ideals associated with the West. As such, international hierarchies of status are far from meritocratic systems: While states at the margins of the international system struggle to gain recognition, states at the system's core enjoy considerable advantage in maintaining their status.
 
