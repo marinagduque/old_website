@@ -14,11 +14,13 @@ My research combines novel theoretical insights with empirical analysis using me
 <li> <strong>How does status motivate political behavior?</strong> While existing research treats status-motivated behavior at the state level as an attempt to achieve international recognition, my work disentangles the mechanisms driving status-motivated behavior at the domestic level.</li>
 </ol>
 
-#### BOOK MANUSCRIPT
+#### BOOK
 
-<a href="http://marinagduque.com/book/" target="_blank"><strong>The Making of International Status</strong></a>
+<a href="http://marinagduque.com/book/" target="_blank"><strong>The Making of International Status.</strong></a> Oxford University Press (Forthcoming).
 
 #### PEER-REVIEWED ARTICLES
+
+Duque, Marina G. Forthcoming. <strong>The Case for an Expressive Logic of Action.</strong> _Global Studies Quarterly_.
 
 Duque, Marina G. 2018. <a href="https://doi.org/10.1093/isq/sqy001" target="_blank"><strong>Recognizing International Status: A Relational Approach.</strong></a> _International Studies Quarterly_ 62(3): 577–592.
 
