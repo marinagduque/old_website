@@ -20,7 +20,7 @@ My research combines novel theoretical insights with empirical analysis using me
 
 #### PEER-REVIEWED ARTICLES
 
-Duque, Marina G. Forthcoming. <a href="https://osf.io/preprints/socarxiv/d9hpg" target="_blank"><strong>The Case for an Expressive Logic of Action.</strong> _Global Studies Quarterly_.
+Duque, Marina G. Forthcoming. <a href="https://osf.io/preprints/socarxiv/d9hpg" target="_blank"><strong>The Case for an Expressive Logic of Action.</strong></a> _Global Studies Quarterly_.
 
 - Winner of the <a href="https://www.isanet.org/Programs/Awards/THEORY-Conference-Post-PhD-Paper-Award" target="_blank"><strong>2019 Best Post-PhD Paper Award</strong></a> by the ISA Theory Section, for the best theoretical paper by a post-PhD scholar presented at ISA 2019
 
