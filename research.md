@@ -18,6 +18,8 @@ My research combines novel theoretical insights with empirical analysis using me
 
 <a href="http://marinagduque.com/book/" target="_blank"><strong>The Making of International Status.</strong></a> Oxford University Press (Forthcoming).
 
+- Honorable Mention, 2024 Best Conference Paper Award by the American Political Science Association's Political Networks Section, for the chapter "Do Nuclear Weapons Confer Status?"
+
 #### PEER-REVIEWED ARTICLES
 
 Duque, Marina G. 2024. <a href="https://academic.oup.com/isagsq/article/4/2/ksae037/7681815" target="_blank"><strong>The Case for an Expressive Logic of Action.</strong></a> _Global Studies Quarterly_ 4(2): ksae037.
