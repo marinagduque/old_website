@@ -18,7 +18,7 @@ My research combines novel theoretical insights with empirical analysis using me
 
 <a href="http://marinagduque.com/book/" target="_blank"><strong>The Making of International Status.</strong></a> Oxford University Press (Forthcoming).
 
-- Honorable Mention, 2024 Best Conference Paper Award by the American Political Science Association's Political Networks Section, for the chapter "Do Nuclear Weapons Confer Status?"
+- Honorable Mention, <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-41/" target="_blank"><strong>2024 Best Conference Paper Award</strong></a> by the American Political Science Association's Political Networks Section, for the chapter "Do Nuclear Weapons Confer Status?"
 
 #### PEER-REVIEWED ARTICLES
 
@@ -28,7 +28,7 @@ Duque, Marina G. 2024. <a href="https://academic.oup.com/isagsq/article/4/2/ksae
 
 Duque, Marina G. 2018. <a href="https://doi.org/10.1093/isq/sqy001" target="_blank"><strong>Recognizing International Status: A Relational Approach.</strong></a> _International Studies Quarterly_ 62(3): 577–592.
 
-- Winner of the <a href="https://www.apsanet.org/section-41-The-Political-Ties-Award" target="_blank"><strong>2019 Political Ties Award</strong></a> by the American Political Science Association's Political Networks Section, for the best article on political networks published over the previous two years
+- Winner of the <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-41/" target="_blank"><strong>2019 Political Ties Award</strong></a> by the American Political Science Association's Political Networks Section, for the best article on political networks published over the previous two years
 - Winner of the <a href="https://www.isanet.org/Programs/Awards/DPLST-Article" target="_blank"><strong>2019 DPLST Article Award</strong></a> by the International Studies Association's Diplomatic Studies Section, for the best article on diplomacy published in the previous year
 - <a href="https://foreignpolicy.com/2018/06/21/kim-jong-un-gets-to-sit-at-the-cool-table-now/" target="_blank"><strong>Article</strong></a> by Stacie Goddard and Dan Nexon on <a href="https://foreignpolicy.com/" target="_blank"><strong>Foreign Policy</strong></a>
 - <a href="../pdf/DuqueOnlineAppendix.pdf" target="_blank"><strong>Appendix</strong></a> & <a href="https://doi.org/10.7910/DVN/4K7SQC" target="_blank"><strong>Replication Files</strong></a>
