@@ -30,7 +30,7 @@ image:
 
 ##### Newcastle University
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ncl.ac.uk/mobility/newcastle/study-abroad/POL1032" target="_blank">POL1032: Key Concepts in International Politics</a>
 
 ##### University College London
 
