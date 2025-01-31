@@ -10,6 +10,9 @@ image:
 
 #### GRADUATE COURSES
 
+##### Newcastle University
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ncl.ac.uk/postgraduate/degrees/module/?code=POL8072" target="_blank">POL8072: Public Policy in Practice: from the Local to the Globaly</a>
 
 ##### University College London
 
